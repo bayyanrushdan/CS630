@@ -1,3 +1,4 @@
+#Jenkins automatic build trigger verification
 #triangle.py
 #----------------------------------------------------------#
 #A code library for CS630, week 8, Assignment 2, SNHU
